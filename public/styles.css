@@ -1,0 +1,21 @@
+body {
+  background-color: burlywood;
+}
+
+ul {
+  display: flex;
+  align-items: flex-end;
+}
+li {
+  color: brown;
+  margin: 12px;
+  list-style-type: none;
+}
+a:hover {
+  color: green;
+  font-size: 22px;
+}
+a:visited {
+  color: blueviolet;
+  font-size: 22px;
+}
